@@ -1,10 +1,3 @@
-/*
- * @Author: Sky.Sun 
- * @Date: 2018-08-22 14:53:48 
- * @Last Modified by: Sky.Sun
- * @Last Modified time: 2018-12-03 14:34:07
- */
-
 const app = new Vue({
     el: '.container',
     data: {
